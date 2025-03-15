@@ -1,5 +1,9 @@
 # Commander Console
 
+<p align="center">
+    <img src=".github/readme.webp" alt="Portfolio Preview" />
+</p>
+
 A personal training tool for improving real time strategy gameplay, built with the MERN stack (MongoDB, Express.js, React, Node.js), TypeScript, and Tailwind CSS.
 
 ## Tech Stack
