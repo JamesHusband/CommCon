@@ -5,7 +5,7 @@ function App() {
         className="text-white text-4xl uppercase tracking-wider"
         style={{ fontFamily: "'Black Ops One', cursive" }}
       >
-        CoH3 Trainer
+        Commander Console
       </h1>
     </div>
   );

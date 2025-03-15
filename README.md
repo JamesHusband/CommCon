@@ -1,6 +1,6 @@
-# Company of Heroes 3 Trainer
+# Commander Console
 
-A personal training tool for improving Company of Heroes 3 gameplay, built with the MERN stack (MongoDB, Express.js, React, Node.js), TypeScript, and Tailwind CSS.
+A personal training tool for improving real time strategy gameplay, built with the MERN stack (MongoDB, Express.js, React, Node.js), TypeScript, and Tailwind CSS.
 
 ## Tech Stack
 
@@ -20,16 +20,6 @@ A personal training tool for improving Company of Heroes 3 gameplay, built with 
   - Docker & Docker Compose
   - ESLint & Prettier
   - Git for version control
-
-## Project Structure
-
-```
-gametrainer/
-├── client/             # React frontend
-├── server/             # Express backend
-├── docker/             # Docker configuration
-└── docker-compose.yml  # Docker compose configuration
-```
 
 ## Development
 
