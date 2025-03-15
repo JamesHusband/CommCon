@@ -1,7 +1,7 @@
 # Commander Console
 
 <p align="center">
-    <img src=".github/readme.webp" alt="Portfolio Preview" />
+    <img src=".github/readme-splash.webp" alt="CommCon" />
 </p>
 
 A personal training tool for improving real time strategy gameplay, built with the MERN stack (MongoDB, Express.js, React, Node.js), TypeScript, and Tailwind CSS.
